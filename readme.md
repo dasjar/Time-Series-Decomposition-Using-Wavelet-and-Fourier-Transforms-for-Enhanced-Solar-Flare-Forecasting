@@ -47,5 +47,4 @@ We compare:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/solar-flare-decomposition.git
-   cd solar-flare-decomposition
+   git clone https://github.com/dasjar/Time-Series-Decomposition-Using-Wavelet-and-Fourier-Transforms-for-Enhanced-Solar-Flare-Forecasting.git
