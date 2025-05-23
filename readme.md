@@ -43,6 +43,14 @@ We compare:
 
 ---
 
+###  Citation
+Solomon, V., Wen, J., Angryk, R., Rampuria, M., Rayala, O., & Afrid, A. (2025).
+Time Series Decomposition Using Wavelet and Fourier Transforms for Enhanced Solar Flare Forecasting.
+The International FLAIRS Conference Proceedings, 38(1).
+https://doi.org/10.32473/flairs.38.1.139016
+
+
+
 ##  Installation
 
 1. Clone the repository:
