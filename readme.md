@@ -1,4 +1,4 @@
-# 🌞 Time Series Decomposition for Enhanced Solar Flare Forecasting
+#  Time Series Decomposition for Enhanced Solar Flare Forecasting
 
 This repository supports the paper:
 
@@ -8,7 +8,7 @@ Department of Computer Science, Georgia State University
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project investigates how frequency-based time series decomposition can improve multivariate solar flare prediction. We apply four transformation methods:
 
@@ -24,26 +24,26 @@ We evaluate the effectiveness of these transforms on both **lossless** and **los
 
 ---
 
-## 🧪 Experiments
+##  Experiments
 
-### ✅ Experiment I: TS Reconstruction Impact
+###  Experiment I: TS Reconstruction Impact
 We assess the performance of TSF trained on:
 - Original data
 - Lossless reconstructed data
 - Lossy reconstructed data (based on 20dB SNR filtering)
 
-📊 Metrics: **TSS** and **HSS2**
+ Metrics: **TSS** and **HSS2**
 
-### ✅ Experiment II: TS vs NTS Representations
+###  Experiment II: TS vs NTS Representations
 We compare:
 - TSF (trained on full and reduced TS)
 - RF (trained on decomposed NTS)
 
-🕒 Time windows tested: 720, 320, 96, and 48 minutes (60, 30, 8, 4 timepoints respectively)
+ Time windows tested: 720, 320, 96, and 48 minutes (60, 30, 8, 4 timepoints respectively)
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
