@@ -59,8 +59,6 @@ We compare:
   booktitle={The International FLAIRS Conference Proceedings},
   volume={38},
   number={1},
-  year={2025},
-  doi={https://doi.org/10.32473/flairs.38.1.139016},
-  url={https://doi.org/10.32473/flairs.38.1.139016}
+  year={2025}
 }
 
