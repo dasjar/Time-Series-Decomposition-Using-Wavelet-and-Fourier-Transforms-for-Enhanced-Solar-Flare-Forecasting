@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the following metadata."
+authors:
+  - family-names: Solomon
+    given-names: Victor
+  - family-names: Wen
+    given-names: Junzhi
+  - family-names: Angryk
+    given-names: Rafal
+  - family-names: Rampuria
+    given-names: Manya
+  - family-names: Rayala
+    given-names: Omkar
+  - family-names: Afrid
+    given-names: Abdul
+title: "Time Series Decomposition Using Wavelet and Fourier Transforms for Enhanced Solar Flare Forecasting"
+version: "1.0.0"
+date-released: 2025-05-01
+doi: 10.32473/flairs.38.1.139016
+url: https://doi.org/10.32473/flairs.38.1.139016
+type: article
+conference:
+  name: International FLAIRS Conference
+  number: 38
+  location: Florida, USA
+  date: 2025-05-18
