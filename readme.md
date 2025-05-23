@@ -43,16 +43,24 @@ We compare:
 
 ---
 
-###  Citation
-Solomon, V., Wen, J., Angryk, R., Rampuria, M., Rayala, O., & Afrid, A. (2025).
-Time Series Decomposition Using Wavelet and Fourier Transforms for Enhanced Solar Flare Forecasting.
-The International FLAIRS Conference Proceedings, 38(1).
-https://doi.org/10.32473/flairs.38.1.139016
-
-
-
 ##  Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/dasjar/Time-Series-Decomposition-Using-Wavelet-and-Fourier-Transforms-for-Enhanced-Solar-Flare-Forecasting.git
+
+---
+
+## Citation
+
+@inproceedings{solomon2025wavelet,
+  title={Time Series Decomposition Using Wavelet and Fourier Transforms for Enhanced Solar Flare Forecasting},
+  author={Solomon, Victor and Wen, Junzhi and Angryk, Rafal and Rampuria, Manya and Rayala, Omkar and Afrid, Abdul},
+  booktitle={The International FLAIRS Conference Proceedings},
+  volume={38},
+  number={1},
+  year={2025},
+  doi={10.32473/flairs.38.1.139016},
+  url={https://doi.org/10.32473/flairs.38.1.139016}
+}
+
